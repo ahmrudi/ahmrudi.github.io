@@ -52,8 +52,8 @@ social:
 # Postal address (add as many lines as necessary)
 address:
   - line: Jl Dieng KM 24, Jojogan Rt 3/2,
-  - line: Kec. Kejajar, Kab. Wonosobo, Jawa Tengah
-  - line: Indonesia 56354
+  - line: Kec. Kejajar, Kab. Wonosobo,
+  - line: Jawa Tengah, Indonesia (56354)
 
 # Credits content
 credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
